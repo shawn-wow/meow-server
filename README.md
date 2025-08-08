@@ -1,6 +1,7 @@
 # meow-server
 
-meow-server是Meow浏览器的一个后端服务，目前主要用于管理Meow浏览器的用户。Meow浏览器是一个专注视频资源下载的浏览器。
+meow-server是Meow浏览器的一个后端服务，目前主要用于管理Meow浏览器的用户。
+Meow浏览器是一个专注视频资源获取的浏览器。
 
 # Meow浏览器
 
@@ -14,11 +15,13 @@ Meow（快喵）浏览器是基于Chromium开源内核开发的新一代浏览�
 
 **高效地广告拦截** ：Meow内置智能广告拦截引擎，能够有效屏蔽各类广告和跟踪器，减少干扰，提升页面加载速度，让您的浏览过程更加流畅。
 
-**便捷地视频下载**：Meow内置实用的视频解析工具，支持全网主流的视频平台（1000+），只需简单操作，即可将视频一键解析并下载至本地，方便您随时收藏和学习。****
+**便捷地视频下载**：Meow内置实用的视频解析工具，支持全网主流的视频平台（1000+），只需简单操作，即可将视频一键解析并下载至本地，方便您随时收藏和学习。
 
 **超强的资源抓取**：Meow内置超强的资源嗅探器，能轻松抓取网页中的音视频资源链接，并提供在线预览和一键下载功能。省去您在浏览器里不断F12+F5分析查找，然后再用其它下载工具下载。
 
 **特殊平台的资源获取**：Meow内置系统代理的功能，可助您轻松获取某些平台的资源（如不能用浏览器访问的蝴蝶号）
+
+**直播录播**：Meow内置直播录播的功能，可助您在看主播激情表演的同时，也能将主播美妙的视频片段高质量地保存到你的电脑
 
 本软件提供了多个解析引擎，多种资源获取渠道，尽最大能力保障您喜欢的视频资源能够躺在您的硬盘里吃灰。**「Meow的终极奥义！」**
 
@@ -32,19 +35,19 @@ Meow（快喵）浏览器是基于Chromium开源内核开发的新一代浏览�
 
 ##### 按钮1： 广告拦截器
 
-三种模式：启用/关闭，正常模式（显示拦截广告的数量）、静默模式（默认，不显示拦截数）
+**三种模式**：启用/关闭，正常模式（显示拦截广告的数量）、静默模式（默认，不显示拦截数）
 
 ##### 按钮2： 视频解析&下载
 
 可解析下载当前页面的视频。内置的解析引擎支持1000+国内外平台。
 
-国内平台：腾讯视频、优酷、搜狐、A站、B站、小红书、抖音、快手、西瓜、知乎、百度快看、微博、央视频、芒果TV、梨视频...
+**国内平台**：腾讯视频、优酷、搜狐、A站、B站、小红书、抖音、快手、西瓜、知乎、百度快看、微博、央视频、芒果TV、梨视频...
 
-国际平台：YouTube、DailyMotion、vimeo、VKonatakte、TikTok、Facebook、Twitch、Snapchat、...
+**国际平台**：YouTube、DailyMotion、vimeo、VKonatakte、TikTok、Facebook、Twitch、Snapchat、...
 
 ##### 按钮3：音频解析&下载
 
-可解析下载当前页面视频中的音频数据(MP3)，与视频解析同一个解析引擎。
+可解析下载当前页面**视频中的音频数据**(MP3)，与视频解析同一个解析引擎。
 
 对于音频与视频分离的平台数据（例如YouTube），Meow将直接下载音频部分。若平台提供的视频数据为音视频合一格式，Meow先下载整个视频文件，随后精准提取其中的音频内容（已下载的视频文件也会保留）。
 
@@ -74,13 +77,45 @@ Meow（快喵）浏览器是基于Chromium开源内核开发的新一代浏览�
 
 方法二：在操作系统关闭代理（Windows11：【网络和Internet】-【代理】-【手动设置代理】-【设置】-关闭【使用代理服务器】）
 
-##### 按钮7：媒体工具集
+##### 按钮7：直播录播
+
+在支持的直播平台页面，用户可点击“直播录制”按钮，实时保存当前直播内容，满足回看、剪辑或存档需求。
+
+**多平台覆盖**：哔哩哔哩、抖音（持续扩展中）
+
+**多任务并行录制**：支持同时开启多个直播间录制，轻松管理不同主播的直播内容。（并行数受限于电脑性能和网络宽带）
+
+**自定义分辨率**：原画、高清、标清等，按需选择高清画面满足视觉盛宴或标清画面节省存储空间。
+
+**智能自动录制**：开启自动模式后，系统将实时监测主播状态，开播即录，无需手动操作。
+
+**智能分片**：录制过程中，视频数据按固定时间间隔自动分割为独立分片。每个分片数据边生成边写入磁盘，避免在内存中堆积，降低内存占用峰值。录制结束后，Meow自动按时间顺序拼接所有分片，生成完整视频文件。这样可以高效利用系统资源，保障录制稳定性，实现“零卡顿、零丢失”的**长时间录制**体验。
+
+**便捷管理界面**：在录制管理页面自由移除直播间，查看和删除录播文件。
+
+##### 按钮8：媒体工具集
 
 这是一个下拉菜单，里面提供了更多的实用的音视频功能：
 
 合并音视频：当使用嗅探器嗅探到某些平台的资源链接时，音频和视频资源可能是分开的。您可分别下载后，利用此功能将其合并为一个完整文件。  
 提取视频：支持从视频中提取纯视频内容（去除声音）。  
 提取音频：支持从视频中提取音频内容（MP3格式）。如提取某个视频的背景音乐。
+
+##### 按钮9：下载对话框
+
+这是一个下拉对话框，里面提供了简单的下载管理功能：
+
+快捷按钮：下载页面按钮；下载目录按钮；清除失败记录按钮；清除所有记录按钮。
+
+下载任务列表：显示下载任务详细信息
+
+##### 按钮10：直播录播管理界面入口
+
+点击后可以进入直播录播管理界面
+
+##### 按钮11：“设置及其它”下拉菜单
+
+这是一个下拉菜单，相当于Meow的主菜单
 
 #### **诸多资源获取姿势，如何选择？？？**
 
@@ -104,10 +139,92 @@ Meow（快喵）浏览器是基于Chromium开源内核开发的新一代浏览�
 
 ![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/downloads.png)
 
-### 2.5  书签管理
+### 2.5 直播录播管理
+
+![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/live-recording.png)
+
+### 2.6 书签管理
 
 ![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/bookmarks.png)
 
-### 2.6 历史记录管理
+### 2.7 历史记录管理
 
 ![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/history.png)
+
+# 开发
+
+## 运行（开发模式）
+
+在运行 meow 之前，请确保你的机器上安装了**最新版本**的 [`Node.js`](https://nodejs.org/en/) 和 [`YARN`]。  
+meow 项目**不支持**使用 NPM。你**需要**使用最新的 Yarn v2/v3 版本。
+
+### Windows 系统
+
+确保你已经安装了构建工具。你可以以**管理员身份**运行以下命令来安装它们：
+
+```bash
+$ npm i -g windows-build-tools
+```
+
+Yarn：  
+你需要确保安装了最新版本的 YARN（Yarn Berry）。
+
+```bash
+$ yarn install # Install node modules
+$ yarn build # Compile meow code and rebuild modules.
+$ yarn dev # Run meow in development mode
+```
+
+NPM：不再支持
+
+### 更多命令
+
+```bash
+$ yarn compile-win32 # Package meow for Windows
+$ yarn compile-linux # Package meow for Linux
+$ yarn compile-darwin # Package meow for macOS
+$ yarn lint # Runs linter
+$ yarn lint-fix # Runs linter and automatically applies fixes
+$ yarn copyright # Generates auto headers for copyright.
+```
+
+更多命令可以在 `package.json` 文件中找到。
+
+## 运行（非开发模式（稳定版））
+
+在运行 meow 之前，请确保你的机器上安装了**最新版本**的 [`Node.js`](https://nodejs.org/en/) 和 [`YARN`]。你可以使用 NPM，但**不推荐**。
+
+### Windows 系统
+
+确保你已经安装了构建工具。你可以以**管理员身份**运行以下命令来安装它们：
+
+```bash
+$ npm i -g windows-build-tools
+```
+
+Yarn:
+
+```bash
+$ yarn install # Install node modules
+$ yarn build # Compile meow code and rebuild modules.
+$ yarn start # Run meow in development mode
+```
+
+NPM: 不推荐
+
+```bash
+$ npm install --save --legacy-peer-deps # Install needed depedencies. If you can, please, use yarn install.
+$ npm run build # Compile meow code and rebuild modules.
+$ npm run start # Run meow in development mode
+```
+
+# 版权说明
+
+本软件提供的便捷的本地视频存储功能，旨在方便您收集个人喜爱的视频资料或获取合法创作素材，仅供学习交流使用，请勿用于非法用途。我们坚决反对并禁止任何非法用途的使用。虽然本软件为您提供了从各种平台下载视频的服务，但您有责任尊重并遵守相关法律法规和各个视频平台或内容创作者的版权政策。  
+我们强烈建议您将下载的视频内容仅限于个人欣赏与学习之用，并在下载后的24小时内及时删除。我们鼓励您访问资源的原始发布网站进行观看，并支持原创作品。未经原作者明确授权，请勿用于其它任何目的。
+
+# 联系与支持
+
+- 代码仓库：[Gitee: shawn-wow/meow](https://gitee.com/shawn-wow/meow)
+- 版本更新：软件会提示更新或手动检查更新（注：开源代码不再更新，软件包持续更新中）
+- 使用交流：B站[九漏鱼Musk]
