@@ -227,4 +227,4 @@ $ npm run start # Run meow in development mode
 
 - 代码仓库：[Gitee: shawn-wow/meow](https://gitee.com/shawn-wow/meow)
 - 版本更新：软件会提示更新或手动检查更新（注：开源代码不再更新，软件包持续更新中）
-- 使用交流：B站[九漏鱼Musk]
+- 使用交流：B站[九漏非鱼]
