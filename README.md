@@ -3,15 +3,15 @@
 meow-server是Meow浏览器的一个后端服务，目前主要用于管理Meow浏览器的用户。
 Meow浏览器是一个专注视频资源获取的浏览器。
 
-# Meow浏览器
+Meow浏览器
 
 ## 1. 简介
 
-![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/logo.png)
-
-Meow（快喵）浏览器是基于Chromium开源内核开发的新一代浏览器，专注于提供极速、安全、便捷的网络浏览体验。
+![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/logo.png)Meow（快喵）浏览器是基于Chromium开源内核开发的新一代浏览器，专注于提供极速、安全、便捷的网络浏览体验。
 
 【[官方网站](https://shawn.free.nf/)】【[Meow用户指北--从下载到删除](https://shawn.free.nf/meow/)】【[最新版本下载链接](https://gitee.com/shawn-wow/meow/releases)】
+
+![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/features.png)
 
 **高效地广告拦截** ：Meow内置智能广告拦截引擎，能够有效屏蔽各类广告和跟踪器，减少干扰，提升页面加载速度，让您的浏览过程更加流畅。
 
@@ -24,6 +24,8 @@ Meow（快喵）浏览器是基于Chromium开源内核开发的新一代浏览�
 **直播录播**：Meow内置直播录播的功能，可助您在看主播激情表演的同时，也能将主播美妙的视频片段高质量地保存到你的电脑
 
 本软件提供了多个解析引擎，多种资源获取渠道，尽最大能力保障您喜欢的视频资源能够躺在您的硬盘里吃灰。**「Meow的终极奥义！」**
+
+![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/video-features.png)
 
 ## 2. 界面
 
@@ -81,7 +83,7 @@ Meow（快喵）浏览器是基于Chromium开源内核开发的新一代浏览�
 
 在支持的直播平台页面，用户可点击“直播录制”按钮，实时保存当前直播内容，满足回看、剪辑或存档需求。
 
-**多平台覆盖**：哔哩哔哩、抖音（持续扩展中）
+**多平台覆盖**：哔哩哔哩、抖音、快手、淘宝（持续扩展中）
 
 **多任务并行录制**：支持同时开启多个直播间录制，轻松管理不同主播的直播内容。（并行数受限于电脑性能和网络宽带）
 
