@@ -83,7 +83,7 @@ Meow浏览器
 
 在支持的直播平台页面，用户可点击“直播录制”按钮，实时保存当前直播内容，满足回看、剪辑或存档需求。
 
-**多平台覆盖**：哔哩哔哩、抖音、快手、淘宝（持续扩展中）
+**多平台覆盖**：哔哩哔哩、抖音、快手、淘宝、虎牙、斗鱼、YY、CC、AcFun、微信小程序、Twitch、TikTok（持续扩展中）
 
 **多任务并行录制**：支持同时开启多个直播间录制，轻松管理不同主播的直播内容。（并行数受限于电脑性能和网络宽带）
 
@@ -144,6 +144,8 @@ Meow浏览器
 ### 2.5 直播录播管理
 
 ![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/live-recording.png)
+
+![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/live-recording2.png)
 
 ### 2.6 书签管理
 
