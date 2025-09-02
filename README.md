@@ -10,13 +10,14 @@ Meow Browser
 
 ## 1. 简介
 
-![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/logo.png)Meow（快喵）浏览器是基于Chromium开源内核开发的新一代浏览器，专注于提供极速、安全、便捷的网络浏览体验。支持中、英文界面。
-Meow is a next-generation browser built on the open-source Chromium engine, designed for blazing-fast, secure and effortless web browsing. Chinese and English are supported as interface languages.
+![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/logo.png)Meow（快喵）浏览器是基于Chromium开源内核开发的新一代浏览器，专注于提供极速、安全、便捷的网络浏览体验。界面语言支持**中文和英文**。
+Meow is a next-generation browser built on the open-source Chromium engine, designed for blazing-fast, secure and effortless web browsing. **Chinese** and **English** are supported as interface languages.
 
 【[官方网站](https://shawn.free.nf/)】【[Meow用户指北--从下载到删除](https://shawn.free.nf/meow/)】【[最新版本下载链接](https://gitee.com/shawn-wow/meow/releases)】
 [Official Site](https://shawn.free.nf/) | [User Guide: From Install to Uninstall](https://shawn.free.nf/meow/) | [Latest Release](https://gitee.com/shawn-wow/meow/releases)
 
 ![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/features.png)
+![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/settings-English.png)
 
 **高效地广告拦截** ：Meow内置智能广告拦截引擎，能够有效屏蔽各类广告和跟踪器，减少干扰，提升页面加载速度，让您的浏览过程更加流畅。
 Powerful Ad Blocker: Meow ships with an intelligent ad-blocking engine that wipes out ads and trackers, cutting page-load times and keeping your view clean.
