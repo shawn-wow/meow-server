@@ -10,8 +10,8 @@ Meow Browser
 
 ## 1. 简介
 
-![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/logo.png)Meow（快喵）浏览器是基于Chromium开源内核开发的新一代浏览器，专注于提供极速、安全、便捷的网络浏览体验。界面语言支持**中文和英文**。
-Meow is a next-generation browser built on the open-source Chromium engine, designed for blazing-fast, secure and effortless web browsing. **Chinese** and **English** are supported as interface languages.
+![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/logo.png)Meow（快喵）浏览器是基于Chromium开源内核开发的新一代浏览器，专注于提供极速、安全、便捷的网络浏览体验。界面语言支持**中文和英文**。【[B站视频演示](https://space.bilibili.com/247302096)】
+Meow is a next-generation browser built on the open-source Chromium engine, designed for blazing-fast, secure and effortless web browsing. **Chinese** and **English** are supported as interface languages. 【[Deomo on Bilibili](https://space.bilibili.com/247302096)】
 
 【[官方网站](https://shawn.free.nf/)】【[Meow用户指北--从下载到删除](https://shawn.free.nf/meow/)】【[最新版本下载链接](https://gitee.com/shawn-wow/meow/releases)】
 [Official Site](https://shawn.free.nf/) | [User Guide: From Install to Uninstall](https://shawn.free.nf/meow/) | [Latest Release](https://gitee.com/shawn-wow/meow/releases)
