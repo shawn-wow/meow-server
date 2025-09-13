@@ -49,6 +49,26 @@ UI
 
 ![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/meow-tools.png)
 
+##### VIP视频解析
+VIP Video Unlocker
+
+**VIP视频解析器地址**见本文档最后面
+VIP video-unlocker URLs are listed at the end of this document.
+
+1. 支持B站、腾讯视频、爱奇艺、优酷、芒果TV、乐视视频、PP视频…等平台的VIP视频白嫖。
+   Lets you watch VIP-only videos from Bilibili, Tencent Video, iQIYI, Youku, Mango TV, LeTV, PP TV, and many other platforms—completely free.
+2. Meow本身不会对上述视频网站的VIP视频进行逆向解析，而只是给VIP视频解析（平台）通道提供了便捷的跳转。使用普通的浏览器也能直接访问这些VIP解析平台，然后白嫖VIP视频。
+   Meow itself does NOT reverse-engineer any VIP streams; it only offers quick shortcuts to third-party unlocking sites. You can visit those sites directly in any browser and enjoy the same free access.
+3. VIP视频解析通道可能会经常性挂逼，作者会定期收集整理一些VIP解析器地址，放在gitee的Meow项目文档里，有需要的老铁自行去复制，然后设置到Meow（作者实在没有时间和精力去逐一验证）。【设置】-【地址栏】-【VIP解析器地址】-【编辑】-【保存】-【测试】）。【测试】的作用批量验证这些VIP解析通道是否还活着。
+   These unlocking sites go offline frequently. I periodically collect new ones and drop the latest list into the Meow docs on Gitee; copy whichever you need and paste them into Meow. (I simply don’t have time to test every link.)
+   Settings → Address Bar → VIP Unlocker URL → Edit → Save → Test.
+   The “Test” button batch-checks which links are still alive.
+4. 如何下载你白嫖到的VIP视频？---在当前视频页面点击工具栏上的“嗅探器” 按钮，不一会儿就把视频地址嗅探出来了，点击下载即可。
+   How to download the VIP video you just unlocked?
+   While the video is playing, click the “Sniffer” button on the toolbar; the real video URL will appear in seconds—then hit Download.
+8. **友情提醒：有些VIP解析通道页面会有广告，在白嫖视频时，不要轻信里面的广告
+   Friendly reminder: some unlocking pages carry ads. Never trust or click on them while watching.
+
 ##### 按钮1： 广告拦截器
 Button 1: Ad Blocker
 
@@ -216,6 +236,101 @@ Platform tech changes constantly—rotate methods as needed to keep your disk sp
 ### 2.7 历史记录管理
 
 ![vidkit](https://gitee.com/shawn-wow/meow/raw/master/images/history.png)
+
+### VIP视频解析器地址 VIP video-unlocker URLs
+
+```
+备注：20250910测试可用
+Note: Confirmed working as of 2025-09-10
+
+https://pl.aszzys.com/player/ec.php?code=ikm3u8&if=1&url=
+https://jx.nnxv.cn/tv.php?url=
+https://jx.2s0.cn/player/?url=
+https://jiexi.789jiexi.com/?url=
+https://jiexi.789jiexi.net:4433/?url=
+https://jiexi.789jiexi.icu:4433/?url=
+https://jx.789jiexi.net:4433/?url=
+https://jx.789jiexi.icu:4433/?url=
+https://jx.hls.one/?url=
+https://jx.xmflv.com/?url=
+https://www.8090g.cn/?url=
+https://yparse.ik9.cc/index.php?url=
+
+其它：
+Others:
+https://z1.im1907.top/?jx=
+https://svip.bljiex.cc/?v=
+https://jx.m3u8.tv/jiexi/?url=
+https://www.8090g.cn/jiexi/?url=
+https://jx.xyflv.cc/?url=
+https://jx.2s0.cn/player/?url=
+https://jx.qqwtt.com/?url=
+https://jx.jsonplayer.com/player/?url=
+https://www.ckplayer.vip/jiexi/?url=
+https://www.pangujiexi.com/jiexi/?url=
+https://dmjx.m3u8.tv/?url=
+https://svip.bljiex.com/?v=
+https://www.playm3u8.cn/jiexi.php?url=
+https://www.yemu.xyz/?url=
+https://www.administratorw.com/video.php?url=
+https://api.qianqi.net/vip/?url=
+https://yparse.ik9.cc/index.php?url=
+https://jx.yangtu.top/?url=
+https://jx.we-vip.com/?url=
+https://vip.mpos.ren/v/?url=
+https://www.ckmov.com/?url=
+https://jx.playerjy.com/?url=
+https://jx.xmflv.com/?url=
+https://jx.yparse.com/index.php?url=
+https://jx.iztyy.com/Bei/?url=
+https://www.8090.la/8090/?url=
+https://www.mtosz.com/m3u8.php?url=
+https://movie.heheda.top/?v=
+http://vip.wandhi.com/?v=
+https://videolucky.xyz/jiexi?url=
+https://bd.jx.cn/?url=
+https://im1907.top/?jx=
+https://jiexi.site/?url=
+https://www.pouyun.com/?url=
+https://json.ovvo.pro/jx.php?url=
+https://jx.xmflv.cc/?url=
+https://jx.000180.top/jx/?url=
+https://jx.ivito.cn/?url=
+https://www.pangujiexi.cc/jiexi.php?url=
+https://jx.dj6u.com/?url=
+https://jx.nnxv.cn/tv.php?url=
+https://api.jiexi.la/?url=
+https://gj.fenxiangb.com/player/analysis.php?v=
+https://jx.aidouer.net/?url=
+https://jx.618g.com/?url=
+https://www.gai4.com/?url=
+https://www.ckmov.vip/api.php?url=
+https://www.h8jx.com/jiexi.php?url=
+https://ckmov.ccyjjd.com/ckmov/?url=
+https://vip.laobandq.com/jiexi.php?url=
+https://www.nxflv.com/?url=
+https://okjx.cc/?url=
+https://jx.rdhk.net/?v=
+https://jx.blbo.cc:4433/?url=
+https://jx.ap2p.cn/?url=
+https://jsap.attakids.com/?url=
+https://sb.5gseo.net/?url=
+https://go.yh0523.cn/y.cy?url=
+https://www.1717yun.com/jx/ty.php?url=
+https://jx.4kdv.com/?url=
+https://jx.hls.one/?url=
+https://z1.m1907.top?jx=
+https://jiexi.789jiexi.com/?url=
+https://jx.973973.xyz/?url=
+https://jiexi.site/jiexisite/?url=
+https://jx.555959.xyz/player/?url=
+https://pan.gssource.com/video/vip?url=
+https://jiexi.789jiexi.net:4433/?url=
+https://jiexi.789jiexi.icu:4433/?url=
+https://jx.789jiexi.net:4433/?url=
+https://jx.789jiexi.icu:4433/?url=
+https://www.8090g.cn/?url= 
+```
 
 # 开发
 
