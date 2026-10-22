@@ -1,5 +1,6 @@
 # meow-server
-# 项目已经迁移至[GitHub Meow](https://github.com/shawn-wow/meow)
+# 项目已经迁移至[GitHub Meow](https://github.com/shawn-wow/meow) 最新版本已发布[meow 3.0.0](https://github.com/shawn-wow/meow/releases)
+# Project has been migrated to[GitHub Meow](https://github.com/shawn-wow/meow) Latest version[meow 3.0.0](https://github.com/shawn-wow/meow/releases)
 meow-server是Meow浏览器的一个后端服务，目前主要用于管理Meow浏览器的用户。
 Meow浏览器是一个专注视频资源获取的浏览器。
 "Meow-Server is a backend service for the Meow Browser, currently primarily used for managing its users.
